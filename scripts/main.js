@@ -109,7 +109,7 @@ $(function() {
              "ham-fisted",
              "hammy",
              "awkward",
-             "hella superstitious",
+             "hella superstitious"
         ],
         race: [
             "android",
