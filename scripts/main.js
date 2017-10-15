@@ -20,7 +20,7 @@ $(function() {
          ],
          template: [
              "@trait @race @class from @place",
-             "@theme @race who @background",
+             "@race @theme who @background",
              "@theme @class who @background",
              "@trait @theme @class from @place"
          ],
