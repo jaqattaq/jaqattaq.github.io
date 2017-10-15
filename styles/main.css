@@ -35,7 +35,21 @@ body {
 
 #wrapper {
 	width: 710px;
-	margin: 0 auto;
+	margin: 20px 0 0 auto;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid green;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
 }
 
 header, article {
