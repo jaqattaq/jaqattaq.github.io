@@ -11,7 +11,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 body {
 	background-color: #efebe8;
 	background:url("https://static1.paizo.com/image/content/Starfinder/PZO7102-WallpaperWide.jpg");
-	background-size:auto;
+	background-size:contain;
 	background-width:auto;
 	background-height:auto;
 	background-position: bottom;
