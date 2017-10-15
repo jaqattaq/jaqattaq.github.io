@@ -42,18 +42,21 @@ header, article {
 
 header {
 	margin-top: 70px;
+	color: ##FFFFFF;
 }
 
 header h1 {
 	font-size: 60px;
 	line-height: 60px;
 	display: none;
+	color: ##FFFFFF;
 }
 
 #output {
 	font-size: 48px;
 	line-height: 48px;
 	margin: 60px 0;
+	color: ##FFFFFF;
 }
 
 #output.animate {
@@ -84,7 +87,7 @@ noscript {
 
 #generate:hover {
 	text-decoration: underline;
-	color: white;
+	color: ##FFFFFF;
 }
 
 aside {
@@ -97,6 +100,7 @@ aside {
 #share li {
 	list-style: none;
 	display: inline;
+	color: ##FFFFFF
 }
 
 #share-facebook {}
