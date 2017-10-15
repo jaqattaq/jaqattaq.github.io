@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Aldrich);
+
 /*
 	-- begin reset
 */
@@ -11,13 +13,13 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 body {
 	background-color: #efebe8;
 	background:url("https://static1.paizo.com/image/content/Starfinder/PZO7102-WallpaperWide.jpg");
-	background-size:contain;
-	background-width:auto;
+	background-size:cover;
+	background-width:cover;
 	background-height:auto;
-	background-position: bottom;
+	background-position: center;
 	background-attachment:fixed;
 	background-repeat:no-repeat;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Aldrich", Impact, Arial, sans-serif;
 	text-transform: uppercase;
 	height: 100%;
 	color: #FFFFFF
