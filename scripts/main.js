@@ -243,7 +243,7 @@ $(function() {
             "was a former winning contestant on an epically brutal survival reality television series and has no fucks left",
             "used to be a fuckin debt collector and is rumoured to be out for one last bounty",
             "majored in fuckin political science AND underwater basket-weaving of the 21st century",
-            "is a fuckin librarian dedicated to freedom of information DON'T FUCKIN CROSS THEM"
+            "is a fuckin librarian dedicated to freedom of information DON'T FUCKIN CROSS THEM",
             "always seems to be the fuckin center of attention and claims it's a curse",
             "just wants to pilot a big fuckin robot and save the gorram Pact Worlds already",
             "once looked into the fuckin void and will go existential on your ass",
