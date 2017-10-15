@@ -73,11 +73,13 @@ noscript {
 	font-size: 48px;
 	line-height: 48px;
 	margin: 60px 0;
+	color: ##FFFFFF;
 }
 
 #output dd {
 	display: block;
 	margin: 60px 0;
+	color: ##FFFFFF;
 }
 
 #generate {
@@ -96,6 +98,7 @@ aside {
 	margin: 12px 8px;
 	right: 0;
 	top: 0;
+	color: ##FFFFFF;
 }
 
 #share li {
@@ -104,8 +107,8 @@ aside {
 	color: ##FFFFFF
 }
 
-#share-facebook {}
-#share-twitter {position: relative; top: -1px;}
+#share-facebook {color: ##FFFFFF;}
+#share-twitter {position: relative; top: -1px; color: ##FFFFFF;}
 .twitter-share-button {
 	font-size: 11px;	
 	color: ##FFFFFF;
