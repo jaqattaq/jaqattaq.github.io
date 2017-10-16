@@ -306,7 +306,18 @@ $(function() {
             "is a real fuckin Renaissance figure",
             "always wears a pair of goggles",
             "was accidentally orphaned by their fuckin mad genius father for a couple years",
-            "used to tour in a spacepunk garage band and can still strum a few fuckin chords"
+            "used to tour in a spacepunk garage band and can still strum a few fuckin chords",
+            "keeps a huge-ass collection of fuckin novelty pens and never uses the same one twice",
+            "always wears at least three fuckin novelty hats at a time",
+            "plays Cubicles & Coworkers in their spare time like a fuckin nerd",
+            "moonlights as an exotic dancer at a ritzy fuckin novelty club",
+            "can mix a thousand fuckin cocktails from memory",
+            "is a fuckin savant or some shit who sketch an entire gorram skyline in thirty minutes",
+            "will not hesitate to fuckin lick their thumb to wipe dirt off your face",
+            "is a total fuckin luddite and constantly grumbles about tech these days",
+            "is a total fuckin muggle and constantly whinges about magic these days",
+            "is gonna be the very best, like no one ever fuckin was"
+            
         ],
         place: [
             "a sunken city",
