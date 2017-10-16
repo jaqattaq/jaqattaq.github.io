@@ -335,7 +335,7 @@ $(function() {
             "has apparently fucking slept through the past century, what the unholy fuck",
             "somehow always manages to produce fuckin elegant-ass desserts behind everyone's back",
             "runs a fuckin holovid channel on the infosphere dedicated to weirdly soothing painting tutorials",
-            "was fuckin cursed to remain in the body of a juvenile of their race"
+            "was fuckin cursed to remain in the body of a juvenile of their race",
             "accidentally started a fuckin star cult and can't get these assholes to leave them alone"
           
         ],
