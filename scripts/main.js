@@ -6,8 +6,8 @@ $(function() {
      WTF.init({
 
          heading: [
-             "It's a fucking",
-             "Check this shit out, a fucking",
+             "It's a fuckin",
+             "Check this shit out, a fuckin",
              "Chill the fuck out, it's just a gorram",
              "Roll me a fuckin"
          ],
@@ -22,7 +22,11 @@ $(function() {
              "@trait @race @class from @place",
              "@race @theme who @background",
              "@theme @class who @background",
-             "@trait @theme @class from @place"
+             "@trait @theme @class from @place",
+             "@trait @race who @background",
+             "@race @theme from @place who @background",
+             "@race @class from @place who @background",
+             "@trait @theme who @background"
          ],
          trait: [
              "compassionate",
@@ -160,8 +164,8 @@ $(function() {
         ],
         background: [
             "was birthed on a starship and will die on a fucking starship",
-            "ran away from home to join the spacefaring circus and look where that fucking got us",
-            "joined the gorram military and wound up on the wrong side of a corporate fucking war",
+            "ran away from home to join the spacefaring circus and look where that fucking got them",
+            "joined the gorram military and wound up on the wrong side of a fuckin corporate war",
             "always seems to have extra fucking food",
             "can usually be found at a fucking space gym because every day is smite day yo",
             "discovered YOLO three thousand years too late to be hip but won't let it go",
@@ -269,7 +273,7 @@ $(function() {
             "could crush your fuckin skull like sparrow's eggs between their thighs",
             "earned a place in the fuckin Pact World Records by being part of the galaxy's largest bikini photoshoot",
             "claims to have broken the Pact World record for longest kiss",
-            "fuckin stutters under duress",
+            "fuckin stutters under d-d-duress",
             "carries a personal squeeze tube of hot sauce at all fuckin times",
             "is a total fuckin wuss about heights",
             "deliberately encourages others to underestimate them because it's all part of the fuckin plan",
@@ -290,7 +294,7 @@ $(function() {
             "doesn't fuckin know the meaning of impossible",
             "once ran afoul of a fuckin intergalactic crime boss",
             "really does have an evil fuckin twin",
-            "IS the fuckin evil twin",
+            "*IS* the fuckin evil twin",
             "survived not one, not two, but THREE fuckin starship wrecks that killed everyone else on board",
             "fuckin loves their regular space gym, space tan, space laundry days",
             "is part of a fuckin relationship polycule that's threatening to envelop an entire space station",
@@ -300,24 +304,40 @@ $(function() {
             "takes first seat in violin with the Strings of Old Golarion Symphony",
             "loves the kind of person who can kick their ass, and is a huge fuckin flirt in combat",
             "is rumoured to have been the fuckin enforcer for a crime syndicate",
-            "claims to fuckin hate kids and animals, but has a less-than-secret soft spot for kids and animals",
+            "claims to fuckin hate kids and animals, but has a less-than-secret fuckin soft spot for kids and animals",
             "believes life's a fuckin dream from which everyone eventually wakes up when they die",
             "has a fuckin cyborg arm after a brutal barroom brawl",
             "is a real fuckin Renaissance figure",
-            "always wears a pair of goggles",
+            "always wears a pair of fuckin goggles",
             "was accidentally orphaned by their fuckin mad genius father for a couple years",
             "used to tour in a spacepunk garage band and can still strum a few fuckin chords",
             "keeps a huge-ass collection of fuckin novelty pens and never uses the same one twice",
             "always wears at least three fuckin novelty hats at a time",
-            "plays Cubicles & Coworkers in their spare time like a fuckin nerd",
+            "plays Cubicles & Coworkers IN SPACE in their spare time like a fuckin nerd",
             "moonlights as an exotic dancer at a ritzy fuckin novelty club",
             "can mix a thousand fuckin cocktails from memory",
             "is a fuckin savant or some shit who sketch an entire gorram skyline in thirty minutes",
             "will not hesitate to fuckin lick their thumb to wipe dirt off your face",
             "is a total fuckin luddite and constantly grumbles about tech these days",
             "is a total fuckin muggle and constantly whinges about magic these days",
-            "is gonna be the very best, like no one ever fuckin was"
-            
+            "is gonna be the very fuckin best, like no one ever was",
+            "is as swift as a coursing fuckin river",
+            "has all the force of a great fuckin typhoon",
+            "has all the strength of a raging fuckin fire",
+            "is as mysterious as the fuckin dark side of the moon",
+            "once broke an expensive-ass vase and is still moonlighting at a host club to pay off the gorram debt",
+            "has reared three fuckin sets of kids and makes dad jokes for daaaaaaaaaaays",
+            "may be just a bit fuckin addicted to those sex change serums",
+            "can't tell a can of sprayflesh from their own fuckin ass but will own you in a game of dice",
+            "installed a fuckin vocal modulator at the wrong end of their system",
+            "intalled a fuckin dragon gland at the wrong end of their system",
+            "bought a fuckin chameleon skin biomod and refuses to wear any gorram clothing",
+            "has apparently fucking slept through the past century, what the unholy fuck",
+            "somehow always manages to produce fuckin elegant-ass desserts behind everyone's back",
+            "runs a fuckin holovid channel on the infosphere dedicated to weirdly soothing painting tutorials",
+            "was fuckin cursed to remain in the body of a juvenile of their race"
+            "accidentally started a fuckin star cult and can't get these assholes to leave them alone"
+          
         ],
         place: [
             "a sunken city",
