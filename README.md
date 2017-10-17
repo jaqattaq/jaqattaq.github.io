@@ -73,6 +73,7 @@ I've been pleasantly surprised to find several people using this template to cre
 - [Pitchfork Review Generator](http://pitchforkreviewgenerator.com/)
 - [Shit PR Ideas](http://shitprideas.com/)
 - [What the Fuck is my Mashup](http://whatthefuckismymashup.com/)
+- [Who The Fuck Is My Starfinder Character?](https://jaqattaq.github.io/)
 
 If you have made one, or know of any, please [let me know](https://github.com/soulwire/WTFEngine/issues/new).
 
